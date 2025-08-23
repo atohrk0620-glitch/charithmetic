@@ -1,21 +1,22 @@
-MIT License
+This software is an open-source program provided under a custom license based on the MIT License, currently in a prototype stage.
+	•	Personal and non-commercial use is freely permitted, including use, modification, and research.
+	•	However, commercial use (including profit-driven usage, integration into products or services, resale, or redistribution) requires feedback or contribution to the original developer.
+	•	Any commercial activity that generates profit from this software without the involvement of the developer is strictly prohibited.
+	•	Unauthorized monetization, redistribution, or use without proper credit is not allowed. Coordination and reporting to the developer is strongly encouraged.
 
-Copyright (c) 2025 Hiroki | Project-Cosmo’S-
+⸻
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+🚫 Response to License Violations
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+If a license violation is detected (especially unauthorized commercial use or redistribution), the following actions will be taken immediately:
+	•	Immediate cease and desist order for the violation
+	•	Complete destruction of all derived work by the violator (including source code, products, services, and published materials)
+	•	Full termination of related development or business activities
+	•	These measures are automatically enforced upon detection by the developer, regardless of prior notification
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+⸻
+
+If you are considering commercial deployment, please contact the developer in advance.
+Responsible use and constructive contribution are welcomed.
+
+(C) 2025 Cosmo’S Project – All Rights Reserved.
