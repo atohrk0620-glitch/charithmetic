@@ -83,7 +83,8 @@ This software is released under a **Custom MIT-Based License**.
 ## 💌 Contact & Support
 
 📧 Email: [ato.hrk0620@gmail.com](mailto:ato.hrk0620@gmail.com)  
-☕ Support development: [https://www.paypal.com/paypalme/my/profile](https://www.paypal.com/paypalme/my/profile)  
+☕ Support development: [https://www.paypal.me/chcosmos]
+(https://www.paypal.me/chcosmos)  
 
 If you find Charithmetic useful, please consider supporting the developer.  
 Your kindness directly helps fund future releases, upgrades, and research tools. Thank you! 🌱✨
